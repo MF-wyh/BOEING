@@ -11,6 +11,8 @@
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
 }
 #div2 > img{
 	width: 20%;
